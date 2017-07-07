@@ -1,0 +1,38 @@
+Papers:
+Real-Time Eye Blink Detection using Facial Landmarks
+Real Time Eyes Tracking and Classification for Driver Fatigue Detection
+Eye Blink Detection using Variance of Motion Vectors
+ACCURATE EYE CENTRE LOCALISATION BY MEANS OF GRADIENTS
+Support Vector Machine (and Statistical Learning Theory)
+Support Vector Machines:Eye movement classification in L1/L2 syntactic processing
+Detection of Eyes by Circular Hough Transform and Histogram of Gradient
+Websites:
+http://www.ippatsuman.com/2014/08/13/day-and-night-an-image-classifier-with-scikit-learn/
+http://docs.opencv.org/3.1.0/d5/daf/tutorial_py_histogram_equalization.html
+http://answers.opencv.org/question/30342/open-eyes-closed-eyes-in-opencv/?answer=34496#post-id-34496
+http://vision.stanford.edu/teaching/cs231b_spring1213/project.html
+http://answers.opencv.org/question/116680/eye-landmark-points/
+https://stackoverflow.com/questions/26055749/how-to-train-a-support-vector-machinesvm-classifier-with-opencv-with-facial-fe
+https://matthewearl.github.io/2015/07/28/switching-eds-with-python/
+https://pythonprogramming.net/linear-svc-example-scikit-learn-svm-python/
+https://www.youtube.com/watch?v=WEzm7L5zoZE
+https://github.com/cjlin1/libsvm/tree/master/python
+http://osdoc.cogsci.nl/2.9.2/devices/pygaze/
+http://docs.opencv.org/master/dc/d88/tutorial_traincascade.html
+https://www.codeproject.com/Articles/137623/Pupil-or-eyeball-detection-and-extraction-from-eye
+Datasets:
+http://parnec.nuaa.edu.cn/xtan/data/ClosedEyeDatabases.html
+http://dlib.net/files/
+http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/datasets/USA/
+libs:
+threading
+pygame
+dlib
+numpy
+scipy
+math
+scikit-learn
+scikit-Image
+matplotlib
+cv2
+sys
