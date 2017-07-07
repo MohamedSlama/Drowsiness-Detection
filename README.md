@@ -16,10 +16,11 @@ To run this project you will need to install some libraries<br>
 
 `sh Start.sh`
 
-## Presentation Installation
+## Presentation
 
-Download <a href="https://github.com/hakimel/reveal.js/">reveal.js</a><br>
-move `presentation` folder and `My pres.html` to reveal.js folder then open `My pres.html` using your browser
+Download <a href="https://www.dropbox.com/s/uc35ycoyd11oex3/Presentation.zip?dl=0">Presentation.zip</a><br>
+extract and open `My pres.html`<br>
+this presentation based on <a href="https://github.com/hakimel/reveal.js/">reveal.js</a>
 
 
 ## Test "youtube video"
