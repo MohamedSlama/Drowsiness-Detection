@@ -24,6 +24,6 @@ move `presentation` folder and `My pres.html` to reveal.js folder then open `My 
 
 ## Test "youtube video"
 
-<a href="https://youtu.be/pwmCwGkb5Js" target="_blank"><img src="https://github.com/MohamedSlama/Drowsiness-Detection/blob/master/drowsy%20mohamed.png" 
+<a href="https://youtu.be/pwmCwGkb5Js" target="_blank"><img src="https://github.com/MohamedSlama/Drowsiness-Detection/blob/master/drowsy-mohamed.png" 
 alt="Drowsy Mohamed" width="250" height="250" border="5" /></a>
 
