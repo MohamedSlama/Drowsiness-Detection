@@ -12,7 +12,7 @@ To run this project you will need to install some libraries<br>
 4- cv2 `pip install opencv-python`<br>
 5- download <a href="http://dlib.net/imaging.html#shape_predictor">shape_predictor_68_face_landmarks.dat</a> and move to project folder
 
-## Tests
+## Run
 
 `sh Start.sh`
 
