@@ -1,6 +1,7 @@
 #!/bin/bash
 
 cd "$(dirname "$0")"
-python detect.py 1
+python detect.py 
 
-# 1 if you have multi cameras delete it if you want to use the default camera
+# if you have multiple cameras delete 
+# python detect.py 1
